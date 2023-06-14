@@ -1,0 +1,15 @@
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/bin/Debug/net7.0/RecipeBook
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/bin/Debug/net7.0/RecipeBook.deps.json
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/bin/Debug/net7.0/RecipeBook.runtimeconfig.json
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/bin/Debug/net7.0/RecipeBook.dll
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/bin/Debug/net7.0/RecipeBook.pdb
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/obj/Debug/net7.0/RecipeBook.csproj.AssemblyReference.cache
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/obj/Debug/net7.0/RecipeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/obj/Debug/net7.0/RecipeBook.AssemblyInfoInputs.cache
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/obj/Debug/net7.0/RecipeBook.AssemblyInfo.cs
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/obj/Debug/net7.0/RecipeBook.csproj.CoreCompileInputs.cache
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/obj/Debug/net7.0/RecipeBook.dll
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/obj/Debug/net7.0/refint/RecipeBook.dll
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/obj/Debug/net7.0/RecipeBook.pdb
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/obj/Debug/net7.0/RecipeBook.genruntimeconfig.cache
+/Users/johnhoffmanprinsloo/Projects/RecipeBook/obj/Debug/net7.0/ref/RecipeBook.dll
